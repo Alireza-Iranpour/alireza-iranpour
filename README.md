@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+# About Me:
 I am a Data Scientist and Backend Engineer with strong expertise in machine learning, scalable backend systems, and cloud-native architecture. With extensive experience in Python, modern web technologies, and AWS, I specialize in designing high-performance systems that automate workflows, reduce operational overhead, and deliver measurable business impact.<br><br>I created SuperAPI, a unified API framework that standardized service development across the company and eliminated the need for DevOps involvement, achieving major cost savings and a 97% faster deployment cycle. I have architected secure, scalable AWS ecosystems using Terraform and GitHub Actions, built production-grade machine learning solutions, and led engineering teams to deliver high-quality products.<br><br>My background includes developing multimodal deep learning models, educational automation tools, and large-scale grading systems at UBC. I enjoy mentoring engineers, optimizing complex systems, and bringing clarity and structure to large engineering challenges.<br><br>Currently, I am building an AI Factory, a platform that automatically creates and deploys AI agents to support hundreds of employees across the organization, enabling seamless automation, decision support, and intelligent workflow orchestration.<br><br>I’m driven by solving hard problems, creating scalable systems, and pushing the boundaries of AI-powered automation.
 
 
